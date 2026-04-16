@@ -173,10 +173,10 @@ I use tools such as VS Code and GitHub in my daily workflow and follow best prac
 <section>
   <h2>Contact</h2>
   <div class="social-icons">
-   <" mohameddhhosnyy@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+    <a href="mailto:mohameddhhosnyy@gmail.com"><i class="fa-solid fa-envelope"></i></a>
     <a href="tel:+201210959236"><i class="fa-solid fa-phone"></i></a>
-    <a href="https://www.linkedin.com/in/mohamedhosny-162383" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-    <a href="https://github.com/mohamedhosny-767" target="_blank"><i class="fa-brands fa-github"></i></a>
+    <a href="https://www.linkedin.com/in/mohamed hosny-95a162383" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://github.com/mohamed hosny" target="_blank"><i class="fa-brands fa-github"></i></a>
   </div>
 </section>
 
